@@ -5,7 +5,7 @@
 % to be illuminated on that region and for how long it should be illuminated                                       %
 % When the initial set up is done, the user can project light as programmed and record images to be analyzed later %
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-function activeFeedback
+function PIM_controller_01
 clear all
 close all
 clc
