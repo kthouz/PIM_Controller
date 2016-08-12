@@ -1,7 +1,7 @@
 # PIM_Controller
 Programmable Illumination Microscope Controller
 
-This is a Matlab Application to control a Programmable Illumination Microscope Controller. 
+This is a Matlab Application to control a Programmable Illumination Microscope (PIM). 
 
 ### Required Hardware
 1. Projector
